@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948152930359",
+    "project_id": "genshin-d5f69",
+    "storage_bucket": "genshin-d5f69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948152930359:android:07d628a47e3ea317156fb2",
+        "android_client_info": {
+          "package_name": "com.example.genshin_novatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0k_1-ARtSTSl2Ol1wGQHyaDzkgwzNOVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948152930359:android:54eafd6dff2444f4156fb2",
+        "android_client_info": {
+          "package_name": "com.genshin_novato.genshin_novato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0k_1-ARtSTSl2Ol1wGQHyaDzkgwzNOVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
